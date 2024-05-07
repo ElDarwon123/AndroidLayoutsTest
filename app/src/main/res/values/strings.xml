@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OrganizacionDeVistas</string>
+    <string name="organizacion_de_vistas">Organización de Vistas!, aquí LinearLayout</string>
+    <string name="textMainDesc">Desde esta vista con linearLayout puedes ver trabajos con otros layouts, </string>
+    <string name="textRel">Relative Layout Examples</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="green">GREEN</string>
+    <string name="violet">VIOLET</string>
+    <string name="blue">BLUE</string>
+    <string name="indigo">INDIGO</string>
+    <string name="txttable">Ver TableLayout</string>
+    <string name="txtRel">Ver RelativeLayout</string>
+</resources>
